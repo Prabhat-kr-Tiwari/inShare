@@ -1,0 +1,111 @@
+PS G:\Javascript\CodersGyan\FileSharing> npm 
+Wrote to G:\Javascript\CodersGyan\FileSharing
+
+{
+  "name": "filesharing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+PS G:\Javascript\CodersGyan\FileSharing> npm 
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS G:\Javascript\CodersGyan\FileSharing>
+PS G:\Javascript\CodersGyan\FileSharing>
+PS G:\Javascript\CodersGyan\FileSharing>
+PS G:\Javascript\CodersGyan\FileSharing> npm 
+added 33 packages, and audited 92 packages in
+
+11 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+> filesharing@1.0.0 start
+> node server.js
+
+Server is listening on 4000
+Terminate batch job (Y/N)? Y
+PS G:\Javascript\CodersGyan\FileSharing> npm 
+
+> filesharing@1.0.0 start
+> nodemon server.js
+
+[nodemon] 3.0.1
+[nodemon] to restart at any time, enter `rs`
+[nodemon] watching path(s): *.*
+[nodemon] watching extensions: js,mjs,cjs,jso
+[nodemon] starting `node server.js`
+G:\Javascript\CodersGyan\FileSharing\server.j
+app.listen(PORT,(request,response)=>{
+           ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (G:\Javascript\Code
+    at Module._compile (node:internal/modules
+    at Module._extensions..js (node:internal/
+    at Module.load (node:internal/modules/cjs
+    at Module._load (node:internal/modules/cj
+    at Function.executeUserEntryPoint [as run
+    at node:internal/main/run_main_module:23:
+
+Node.js v18.14.1
+[nodemon] app crashed - waiting for file chan
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+G:\Javascript\CodersGyan\FileSharing\server.j
+app.listen(PORT,(request,response)=>{
+           ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (G:\Javascript\Code
+    at Module._compile (node:internal/modules
+    at Module._extensions..js (node:internal/
+    at Module.load (node:internal/modules/cjs
+    at Module._load (node:internal/modules/cj
+    at Function.executeUserEntryPoint [as run
+    at node:internal/main/run_main_module:23:
+
+Node.js v18.14.1
+[nodemon] app crashed - waiting for file chan
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+G:\Javascript\CodersGyan\FileSharing\server.j
+app.listen(PORT,(request,response)=>{
+           ^
+
+ReferenceError: PORT is not defined
+    at Object.<anonymous> (G:\Javascript\Code
+    at Module._compile (node:internal/modules
+    at Module._extensions..js (node:internal/
+    at Module.load (node:internal/modules/cjs
+    at Module._load (node:internal/modules/cj
+    at Function.executeUserEntryPoint [as run
+    at node:internal/main/run_main_module:23:
+
+Node.js v18.14.1
+n 3000                - waiting for file chan
+[nodemon] restarting due to changes...
+due to changes...    ode server.js`
+[nodemon] starting `nn 3000ode server.js`       due to changes...
+Server is listening oode server.js`n 3000
+e to changes...
+[nodemon] restarting due to changes...
+[nodemon] starting `node server.js`
+Server is listening on 3000
+
+
+
+npm install mongoose
+
+
