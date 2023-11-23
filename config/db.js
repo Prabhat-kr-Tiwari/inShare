@@ -2,8 +2,6 @@ require('dotenv').config()
 //import mongoose
 const mongoose=require('mongoose')
 
-
-
 function connectDB(){
     //datanase connection
     //mongoose.connect(process.env.MONGO_CONNECTION_URL, { useNewUrlParser: true, useCreateIndex:true, useUnifiedTopology: true, useFindAndModify : true });
@@ -22,3 +20,4 @@ function connectDB(){
     // })
 }
 module.exports=connectDB
+//new
